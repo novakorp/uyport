@@ -4,7 +4,7 @@ ruby '1.9.3'
 LANG="en_US.UTF-8"
 LC_ALL="en_US.UTF-8"
 
-gem 'rails', '3.2.1'
+gem 'rails', '3.2.17'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
